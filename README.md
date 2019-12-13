@@ -1,3 +1,19 @@
+# Fix Notes
+
+## Simulator Settings
+1. lowest resolution
+2. lowest graphics quality
+3. full screen 
+
+## ROS Subscriber Queue and Buffer Sizes
+see
+1. https://answers.ros.org/question/220502/image-subscriber-lag-despite-queue-1/
+2. https://github.com/ros/ros_comm/issues/536
+3. http://docs.ros.org/api/rospy/html/rospy.topics.Subscriber-class.html
+
+
+
+
 ## Udacity - Self-Driving Car Engineer Nanodegree
 ### Capstone Project: System Integration
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
