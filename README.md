@@ -1,3 +1,50 @@
+## Udacity - Self-Driving Car Engineer Nanodegree
+### Capstone Project: System Integration
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
+---
+### Notes to Reviewer
+
+| Name 				| Udacity account email address | 
+|:-----------------:|:----------------------------:	|
+| Florian Stahl		| f.stahl@posteo.de 			|
+| Saurabh Sharma	| saurabh1588sharma@gmail.com	|
+| Hiroyuki Mori		| hiroyuki.mori555@gmail.com	|
+| Shinya Fujimura	| shinya.fujimura@gmail.com		|
+| Elham Asadi		| dr.elham.asadi@gmail.com		|
+
+---
+
+### Introduction
+
+The final project of the course was about implementing code for a real self-driving car, which drives safely around a track. It also recognizes traffic light signals and stops in case a red signal is detected. The system was first tested on a simulator and then on a real car.
+
+
+### Architecture 
+
+The following graphic shows the system architecture which consists of the three subsystems
+* Perception,
+* Planning, and
+* Control,
+
+and their connections in a ROS architecture.
+
+
+![ros_img](./imgs/ros_architecture.png)
+
+The three parts are described in detail below.
+
+#### Perception
+
+#### Planning
+
+#### Control
+
+
+---
+
+## Original README:
+
 This is the project repo for the final project of the Udacity Self-Driving Car Nanodegree: Programming a Real Self-Driving Car. For more information about the project, see the project introduction [here](https://classroom.udacity.com/nanodegrees/nd013/parts/6047fe34-d93c-4f50-8336-b70ef10cb4b2/modules/e1a23b06-329a-4684-a717-ad476f0d8dff/lessons/462c933d-9f24-42d3-8bdc-a08a5fc866e4/concepts/5ab4b122-83e6-436d-850f-9f4d26627fd9).
 
 Please use **one** of the two installation options, either native **or** docker installation.
@@ -16,7 +63,7 @@ Please use **one** of the two installation options, either native **or** docker 
   * [ROS Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu) if you have Ubuntu 16.04.
   * [ROS Indigo](http://wiki.ros.org/indigo/Installation/Ubuntu) if you have Ubuntu 14.04.
 * [Dataspeed DBW](https://bitbucket.org/DataspeedInc/dbw_mkz_ros)
-  * Use this option to install the SDK on a workstation that already has ROS installed: [One Line SDK Install (binary)](https://bitbucket.org/DataspeedInc/dbw_mkz_ros/src/81e63fcc335d7b64139d7482017d6a97b405e250/ROS_SETUP.md?fileviewer=file-view-default)
+  * Use this option to install the SDK on a workstation hthat already has ROS installed: [One Line SDK Install (binary)](https://bitbucket.org/DataspeedInc/dbw_mkz_ros/src/81e63fcc335d7b64139d7482017d6a97b405e250/ROS_SETUP.md?fileviewer=file-view-default)
 * Download the [Udacity Simulator](https://github.com/udacity/CarND-Capstone/releases).
 
 ### Docker Installation
