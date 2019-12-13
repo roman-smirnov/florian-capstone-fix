@@ -3,13 +3,15 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 ---
-### Team
+### Notes to Reviewer
 
-* Florian Stahl
-* Saurabh Sharma
-* Hiroyuki Mori
-* Shinya Fujimura
-* Elham Asadi
+| Name 				| Udacity account email address | 
+|:-----------------:|:----------------------------:	|
+| Florian Stahl		| f.stahl@posteo.de 			|
+| Saurabh Sharma	| saurabh1588sharma@gmail.com	|
+| Hiroyuki Mori		| hiroyuki.mori555@gmail.com	|
+| Shinya Fujimura	| shinya.fujimura@gmail.com		|
+| Elham Asadi		| dr.elham.asadi@gmail.com		|
 
 ---
 
@@ -37,7 +39,6 @@ The three parts are described in detail below.
 #### Planning
 
 #### Control
-
 
 
 ---
